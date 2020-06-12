@@ -1,6 +1,6 @@
 # Why use Typescript
 
-**TypeScritp is a typed superset of JavaScritp that compiles to plain JavaScript**
+### TypeScritp is a typed superset of JavaScritp that compiles to plain JavaScript
 
 -   Open source language from Microsoft
 -   Static type system
@@ -8,13 +8,22 @@
 -   Provides optional static typings (if not there is the type inference)
 -   IDE (vscode) suport is a huge win (alert you meanwhile you are coding)
 -   All ES5/6 features are available
-    ![alt text](https://github.com/datruq/typescript-101/blob/master/img/es5-6-ts.png)
+    ![alt text](https://github.com/datruq/typescritp-101/blob/master/img/es5-6-ts.png)
 
 -   More robust software (easy to implement POO, manteinable, modular, code undertandly)
 
 ### Typescritp compiler
 
 Its a transformation process to convert the Typescritp file to javascritp.
+
+### ES6/7 and Typescript
+
+-   Imports and exports
+-   Arrow functions
+-   Fucntion parameters (optional parameters)
+-   Spread operators (...)
+-   Destructuring (take properties out of an object { prop } )
+-   Object literal enhacements
 
 ### Classes
 
